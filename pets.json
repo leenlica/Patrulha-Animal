@@ -1,0 +1,106 @@
+[
+    {
+        "id": "01",
+        "name": "Black",
+        "imagem": "https://i.pinimg.com/564x/25/1e/1a/251e1ac34e6ad6e3ddbd9e9981ea0db9.jpg",
+        "species": "Cachorro",
+        "breed": "Labrador",
+        "size": "Grande", 
+        "neighborhood": "Bairro das Indústrias",
+        "age": "2 anos",
+        "color": "Preto",
+        "description": "Black é um Labrador amigável e enérgico que adora brincar e passear.  Ele é bom em fazer amizade com outros cães e crianças. Um ótimo companheiro para fazer parte de sua família."
+    },
+    {
+        "id": "02",
+        "name": "Nina",
+        "imagem": "https://i.pinimg.com/564x/5f/75/fa/5f75fa3b95cad18586a3341f4a94f313.jpg",
+        "species": "Gato",
+        "breed": "Siamês",
+        "neighborhood": "Oitizeiro",
+        "age": "7 meses",
+        "color": "Creme e Preto",
+        "description": "Nina é uma linda gatinha siamês com impressionantes olhos azuis.  Ela é independente e gosta de explorar o ambiente, mas também adora um colo quentinho para descansar. Uma parceria incrível para ter em seu lar."
+    },
+    {
+        "id": "03",
+        "name": "Daisy",
+        "imagem": "https://i.pinimg.com/564x/0b/16/92/0b16923013bcfec513f2cf517406e96c.jpg",
+        "species": "Cachorro",
+        "breed": "Pincher",
+        "size": "Pequeno",
+        "neighborhood": "Jaguaribe",
+        "age": "9 meses",
+        "color": "Caramelo",
+        "description": " Daisy é uma doce e gentil cadelinha que adora ser abraçada e receber carinho. Ela é boa com outros animais e seria um ótimo animal de estimação para uma família com crianças."
+    },
+    {
+        "id": "04",
+        "name": "Banguela",
+        "imagem": "https://i.pinimg.com/564x/a8/38/d0/a838d01aa86bf08511750bcd1fbeeac3.jpg",
+        "species": "Gato",
+        "breed": "Siamês",
+        "neighborhood": "Valentina Figueiredo",
+        "age": "5 meses",
+        "color": "Preto e Branco ",
+        "description": " Banguela adora receber carinho, principalmente na barriga, e socializar com outros gatos, sendo um ótimo animal de estimação para uma família que já tenha ou não um animal."
+    },
+    {
+        "id": "05",
+        "name": "Charel",
+        "imagem": "https://i.pinimg.com/564x/81/49/61/8149615949a35795ac960934f17ff059.jpg",
+        "species": "Cachorro",
+        "breed": "SRD (Sem Raça Definida)",
+        "size": "Médio",
+        "neighborhood": "Bairro das Indústrias",
+        "age": "1 ano",
+        "color": "Branco ",
+        "description": " Charel ama passeios e se aventurar, assim como um longo descanso em ambientes aconchegantes . Sendo um excelente  companheiro para todas as ocasiões "
+    },
+    {
+        "id": "06",
+        "name": null,
+        "imagem": "https://i.pinimg.com/564x/ac/a7/6b/aca76b6a25913250655f3ec5b4fea7d1.jpg",
+        "species": "Gata",
+        "breed": "SRD (Sem Raça Definida)",
+        "neighborhood": "Mangabeira",
+        "age": "3 semanas ",
+        "color": "Malhado ",
+        "description": " É uma gata que ama brincar, é curiosa e adora conhecer novos animais. Uma companheira perfeita para alegrar mais ainda a sua casa"
+    },
+    {
+        "id": "07",
+        "name": "Belinha",
+        "imagem": "https://i.pinimg.com/564x/68/f1/d0/68f1d07dd0594972fd13642d2f8f7f6d.jpg",
+        "species": "Cachorra ",
+        "breed": "Pincher",
+        "size": "Pequeno", 
+        "neighborhood": "Oitizeiro",
+        "age": "2 anos",
+        "color": "Vermelho castanho",
+        "description": " Belinha é uma cachorra muito  esperta, agitada, carinhosa e leal para quem te dá amor. Transformando a vida de que à adotar mais leve e feliz, tendo uma companheira e afeto incondicional "
+    },
+    {
+        "id": "08",
+        "name": "Leon",
+        "imagem": "https://i.pinimg.com/564x/c8/17/f9/c817f90071fb58619b6252f133aa3acd.jpg",
+        "species": "Gato ",
+        "breed": "SRD (Sem Raça Definida)",
+        "neighborhood": "Valentina Figueiredo",
+        "age": " 4 anos",
+        "color": "Laranja ",
+        "description": "Leon é um gato ágil, aventureiro, ama um carinho e fazer amizade com outros gatos e pessoas. No qual, com certeza, irá transformar a vida do futuro tutor, para melhor "
+    },
+    {
+        "id": "09",
+        "name": "Estrela",
+        "imagem":"https://i.pinimg.com/564x/7f/81/9c/7f819c7efa4afcf4d6c1111b94f95fba.jpg",
+        "species": "Gato",
+        "breed": "SRD (Sem Raça Definida)",
+        "neighborhood": "Jaguaribe",
+        "age": "1 ano",
+        "weight": "2.7kg",
+        "color": "Branco",
+        "description": " Estrela é uma linda gata, alegre e amorosa. Seus olhos transbordam sua energia apaixonante. Você e sua família vão amar ter um pacote de alegria em casa."
+    }
+]
